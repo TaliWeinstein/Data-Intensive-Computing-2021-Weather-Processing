@@ -1,6 +1,11 @@
-# Project - ELEN4020
----
-Aaron Fainman (1386259), Nathan Jones (1619191) & Taliya Weinstein (1386891)
+# Weather Processing Statistics Project 
+## Summary:
+
+In this final course project for the final year class of Data Intensive Processing, we built a tool to produce a 5-number summary of a large corpus of data in C++ and with multiple threads. 
+The final report giving project context and algorithm performance is given in ELEN4020_Project.pdf. 
+
+**Group Memmbers:**
+_Aaron Fainman (1386259), Nathan Jones (1619191) & Taliya Weinstein (1386891)_
 
 ## Program Overview
 
@@ -123,4 +128,4 @@ The data is read a single week at a time, ie. for a fully year there will be 52 
 * All members of the group wrote the report.
 
 ---
-# Data-Intensive-Computing-Weather-Processing
+
